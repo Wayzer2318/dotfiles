@@ -114,6 +114,7 @@ alias l="ls -a --color"
 alias ll="ls -la --color"
 alias g="git"
 alias lg="lazygit"
+alias b="branchlet"
 
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
