@@ -151,3 +151,9 @@ source /home/arez/tools/fzf-tab/fzf-tab.plugin.zsh
 # adding zoxide
 
 eval "$(zoxide init zsh)"
+# Created by `pipx` on 2025-11-25 11:22:35
+export PATH="$PATH:/home/arez/.local/bin"
+export DISPLAY=$(grep -m 1 nameserver /etc/resolv.conf | awk '{print $2}'):0.0
+
+. "$HOME/.atuin/bin/env"
+eval "$(atuin init zsh --disable-up-arrow)"

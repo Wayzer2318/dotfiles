@@ -1,0 +1,43 @@
+2025/11/25-12:55:05.497 2f49 Reusing MANIFEST /home/arez/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/25-12:55:05.497 2f49 Recovering log #179
+2025/11/25-12:55:05.521 2f49 Reusing old log /home/arez/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000179.log 
+2025/11/25-12:55:05.799 2f53 Level-0 table #189: started
+2025/11/25-12:55:05.810 2f53 Level-0 table #189: 497894 bytes OK
+2025/11/25-12:55:05.813 2f53 Delete type=0 #179
+2025/11/25-12:55:05.814 2f49 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/25-12:55:07.080 2f4b Compacting 1@1 + 6@2 files
+2025/11/25-12:55:07.119 2f4b Generated table #190@1: 29028 keys, 2186409 bytes
+2025/11/25-12:55:07.143 2f4b Generated table #191@1: 3179 keys, 2152569 bytes
+2025/11/25-12:55:07.166 2f4b Generated table #192@1: 3569 keys, 2155262 bytes
+2025/11/25-12:55:07.206 2f4b Generated table #193@1: 31514 keys, 2242465 bytes
+2025/11/25-12:55:07.248 2f4b Generated table #194@1: 44911 keys, 2236338 bytes
+2025/11/25-12:55:07.274 2f4b Generated table #195@1: 48057 keys, 1046020 bytes
+2025/11/25-12:55:07.274 2f4b Compacted 1@1 + 6@2 files => 12019063 bytes
+2025/11/25-12:55:07.276 2f4b compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/11/25-12:55:07.277 2f4b Delete type=2 #185
+2025/11/25-12:55:07.277 2f4b Delete type=2 #189
+2025/11/25-12:55:07.277 2f4b Delete type=2 #181
+2025/11/25-12:55:07.277 2f4b Delete type=2 #184
+2025/11/25-12:55:07.277 2f4b Delete type=2 #186
+2025/11/25-12:55:07.277 2f4b Delete type=2 #183
+2025/11/25-12:55:07.277 2f4b Delete type=2 #182
+2025/11/25-12:55:07.795 2f49 Level-0 table #197: started
+2025/11/25-12:55:07.799 2f49 Level-0 table #197: 56923 bytes OK
+2025/11/25-12:55:07.801 2f49 Delete type=0 #188
+2025/11/25-12:55:07.802 2f49 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/25-12:55:08.049 2f4b Compacting 1@1 + 6@2 files
+2025/11/25-12:55:08.184 2f4b Generated table #198@1: 29527 keys, 2186336 bytes
+2025/11/25-12:55:08.202 2f4b Generated table #199@1: 3170 keys, 2150952 bytes
+2025/11/25-12:55:08.218 2f4b Generated table #200@1: 3578 keys, 2156464 bytes
+2025/11/25-12:55:08.255 2f4b Generated table #201@1: 31277 keys, 2241294 bytes
+2025/11/25-12:55:08.294 2f4b Generated table #202@1: 44293 keys, 2236596 bytes
+2025/11/25-12:55:08.321 2f4b Generated table #203@1: 48942 keys, 1065973 bytes
+2025/11/25-12:55:08.321 2f4b Compacted 1@1 + 6@2 files => 12037615 bytes
+2025/11/25-12:55:08.325 2f4b compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/11/25-12:55:08.325 2f4b Delete type=2 #194
+2025/11/25-12:55:08.325 2f4b Delete type=2 #197
+2025/11/25-12:55:08.325 2f4b Delete type=2 #191
+2025/11/25-12:55:08.325 2f4b Delete type=2 #192
+2025/11/25-12:55:08.325 2f4b Delete type=2 #190
+2025/11/25-12:55:08.325 2f4b Delete type=2 #193
+2025/11/25-12:55:08.325 2f4b Delete type=2 #195
