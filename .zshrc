@@ -115,6 +115,8 @@ alias ll="ls -la --color"
 alias g="git"
 alias lg="lazygit"
 alias b="branchlet"
+alias nf="neofetch"
+alias we="explorer.exe"
 
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
@@ -135,6 +137,9 @@ setopt hist_ignore_all_dups
 setopt hist_save_no_dups
 setopt hist_ignore_dups
 setopt hist_find_no_dups
+
+
+export BROWSER='/mnt/c/Windows/explorer.exe'
 
 
 # completion styling
@@ -158,3 +163,5 @@ export DISPLAY=$(grep -m 1 nameserver /etc/resolv.conf | awk '{print $2}'):0.0
 
 . "$HOME/.atuin/bin/env"
 eval "$(atuin init zsh --disable-up-arrow)"
+
+  export PATH="${PATH}:/home/arez/.cargo/bin"
