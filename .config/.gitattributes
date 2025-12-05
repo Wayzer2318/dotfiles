@@ -1,0 +1,2 @@
+.opencode filter=lfs diff=lfs merge=lfs -text
+opencode filter=lfs diff=lfs merge=lfs -text
